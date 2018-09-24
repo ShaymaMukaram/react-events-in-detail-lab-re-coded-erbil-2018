@@ -35,4 +35,8 @@
     "test:watch": "npm run test -- --watch",
     "eject": "react-scripts eject"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7a0712ebb6cb9db5911e98abe95af12ba73d3c41
